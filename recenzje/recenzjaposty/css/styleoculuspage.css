@@ -873,7 +873,7 @@ section#opis-1 {
 
 #opis-1 .opis-1-place .text-op-1 p {
     text-align: justify;
-    font-size: 1.3rem;
+    font-size: 1.295rem;
     color: black;
     letter-spacing: .03rem;
     
@@ -996,7 +996,7 @@ section#opis-2 .img-see-bck {
 
 #opis-2 .opis-2-place .text-op-2 p {
     text-align: justify;
-    font-size: 1.3rem;
+    font-size: 1.295rem;
     color: black;
     letter-spacing: .03rem;
     
@@ -1059,7 +1059,7 @@ section#opis-3 .img-see-bck {
 
 #opis-3 .opis-3-place .text-op-3 p {
     text-align: center;
-    font-size: 1.3rem;
+    font-size: 1.295rem;
     color: black;
     letter-spacing: .03rem;
     
@@ -1098,7 +1098,7 @@ section#opis-4 .title-op h2 {
     margin-top: 60px;
 }
 
-#opis-1 .opis-4-place {
+#opis-4 .opis-4-place {
     width: 70%;
     height: auto;
     display: flex;
@@ -1167,7 +1167,7 @@ section#opis-4 .title-op h2 {
 
 #opis-4 .opis-4-place .text-op-4 p {
     text-align: justify;
-    font-size: 1.3rem;
+    font-size: 1.295rem;
     color: black;
     letter-spacing: .03rem;
     
@@ -1221,7 +1221,7 @@ section#opis-5  .text-rid-oveall {
 
 section#opis-5 .text-rid-oveall p {
     text-align: justify;
-    font-size: 1.3rem;
+    font-size: 1.295rem;
     color: black;
     letter-spacing: .03rem;
   
