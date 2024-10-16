@@ -284,13 +284,6 @@ body {
 
 }
 
-@media (max-width: 369px) {
-
-    .container main section#baner #baner-blr-img h1 {
-        font-size: 2.7rem;
-    }
-
-}
 
 @media (max-width: 400px) {
 
@@ -305,6 +298,19 @@ body {
     .container main section#opis-box-conter .box-opis-cont .text-form-3 img {
         height: 190px;
     }
+
+    .container main section#opis-box-conter .box-opis-cont .video-plac .video-test-after {
+        height: 210px;
+    }
+
+}
+
+@media (max-width: 369px) {
+
+    .container main section#baner #baner-blr-img h1 {
+        font-size: 2.7rem;
+    }
+
 }
 
 @media (max-width: 350px) {
@@ -324,6 +330,15 @@ body {
     .container main section#opis-box-conter .box-opis-cont .text-form-3 img {
         height: 170px;
     }
+
+}
+
+@media (max-width: 310px) {
+
+    .container main section#opis-box-conter .box-opis-cont .video-plac .video-test-after {
+        height: 190px;
+    }
+
 }
 
 header {
